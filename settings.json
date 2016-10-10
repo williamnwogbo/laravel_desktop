@@ -10,7 +10,7 @@
         "log_file": "debug.log"
     },
     "main_window": {
-        "title": "PHP Desktop Chrome",
+        "title": "Name your app",
         "icon": "",
         "default_size": [1024, 768],
         "minimum_size": [800, 600],
@@ -28,12 +28,12 @@
     },
     "web_server": {
         "listen_on": ["127.0.0.1", 0],
-        "www_directory": "www",
+        "www_directory": "www/public",
         "index_files": ["index.html", "index.php"],
         "cgi_interpreter": "php/php-cgi.exe",
         "cgi_extensions": ["php"],
         "cgi_temp_dir": "",
-        "404_handler": "/pretty-urls.php"
+        "404_handler": "/index.php"
     },
     "chrome": {
         "log_file": "debug.log",

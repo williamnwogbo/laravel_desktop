@@ -1,0 +1,42 @@
+- 14:43:42.047 INFO: --------------------------------------------------------
+- 14:43:42.047 INFO: Started application
+- 14:43:42.047 INFO: Logging to: C:\xampp\htdocs\phpdesktop-chrome-31.8-php-5.6.1\phpdesktop-chrome-31.8-php-5.6.1\debug.log
+- 14:43:42.047 INFO: Log level = DEBUG4
+- 14:43:42.047 INFO: Starting Mongoose 3.9c web server
+- 14:43:42.047 INFO: WWW directory: C:\xampp\htdocs\phpdesktop-chrome-31.8-php-5.6.1\phpdesktop-chrome-31.8-php-5.6.1\www\public
+- 14:43:42.047 INFO: Index files: index.html,index.php
+- 14:43:42.047 INFO: CGI interpreter: C:\xampp\htdocs\phpdesktop-chrome-31.8-php-5.6.1\phpdesktop-chrome-31.8-php-5.6.1\php\php-cgi.exe
+- 14:43:42.047 INFO: CGI pattern: **.php$
+- 14:43:42.047 INFO: CGI environment variables set: TMP=C:\Users\William\AppData\Local\Temp\,TEMP=C:\Users\William\AppData\Local\Temp\,TMPDIR=C:\Users\William\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=31.8
+- 14:43:42.047 INFO: Web server url: http://127.0.0.1:49541/
+- 14:43:42.047 INFO: remote_debugging_port = 58811
+- 14:43:42.063 DEBUG: Command line string for the browser process: "C:\xampp\htdocs\phpdesktop-chrome-31.8-php-5.6.1\phpdesktop-chrome-31.8-php-5.6.1\phpdesktop-chrome.exe" --lang=en-US --log-file="C:\xampp\htdocs\phpdesktop-chrome-31.8-php-5.6.1\phpdesktop-chrome-31.8-php-5.6.1\debug.log" --remote-debugging-port=58811 --no-sandbox
+- 14:43:42.078 DEBUG: App::OnContextInitialized()
+- 14:43:42.078 DEBUG: Window max width/height = 1286/680
+- 14:43:42.078 DEBUG: Window max size exceeded, new width/height = 1024/680
+- 14:43:42.078 DEBUG: GetBrowserWindow(): not found, hwnd = 1379458
+- 14:43:42.078 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 14:43:42.078 DEBUG: BrowserWindow::CreateBrowserControl()
+- 14:43:42.078 DEBUG: StoreBrowserWindow(): hwnd = 1379458
+- 14:43:42.094 DEBUG: BrowserWindow::OnSize() failed: CefBrowser object not created yet
+- 14:43:42.109 DEBUG: ClientHandler::OnAfterCreated()
+- 14:43:42.109 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 14:43:42.109 INFO: DPI, ppix = 96, ppiy = 96
+- 14:43:42.109 INFO: DPI, browser zoom level = 0
+- 14:43:42.125 DEBUG: OnLoadingStateChange: loading=1, url=
+- 14:43:42.000 DEBUG: Command line string for the gpu-process process: "C:\xampp\htdocs\phpdesktop-chrome-31.8-php-5.6.1\phpdesktop-chrome-31.8-php-5.6.1\phpdesktop-chrome.exe" --type=gpu-process --channel="15140.0.230510837\903749631" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\phpdesktop-chrome-31.8-php-5.6.1\phpdesktop-chrome-31.8-php-5.6.1\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=0,3,5,12,22 --gpu-vendor-id=0x8086 --gpu-device-id=0x0a16 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=20.19.15.4331 --lang=en-US --log-file="C:\xampp\htdocs\phpdesktop-chrome-31.8-php-5.6.1\phpdesktop-chrome-31.8-php-5.6.1\debug.log" /prefetch:822062411
+- 14:43:42.000 DEBUG: Command line string for the renderer process: "C:\xampp\htdocs\phpdesktop-chrome-31.8-php-5.6.1\phpdesktop-chrome-31.8-php-5.6.1\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\xampp\htdocs\phpdesktop-chrome-31.8-php-5.6.1\phpdesktop-chrome-31.8-php-5.6.1\debug.log" --channel="15140.1.489526572\1750459208" /prefetch:673131151
+- 14:43:44.421 DEBUG: OnBrowserCreated()
+- 14:43:47.891 INFO: GET 200 /
+- 14:43:47.140 DEBUG: OnContextCreated()
+- 14:43:47.438 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49541/
+- 14:44:06.500 DEBUG: WM_DESTROY
+- 14:44:06.500 DEBUG: RemoveBrowserWindow(): hwnd = 1379458
+- 14:44:06.500 INFO: Stopping Mongoose web server
+- 14:44:06.500 DEBUG: Mongoose webserver stopped immediately
+- 14:44:06.500 DEBUG: RemoveBrowserWindow(): hwnd = 1509818
+- 14:44:06.500 DEBUG: GetBrowserWindow(): not found, hwnd = 1509818
+- 14:44:06.500 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 14:44:06.515 DEBUG: OnBrowserDestroyed()
+- 14:44:06.875 INFO: Ended application
+- 14:44:06.875 INFO: --------------------------------------------------------
